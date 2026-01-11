@@ -1,0 +1,16 @@
+pandas
+numpy
+yfinance
+fredapi
+scikit-learn
+openai
+langchain
+python-dotenv
+streamlit
+matplotlib
+seaborn
+requests
+beautifulsoup4
+lxml
+openpyxl
+pdfplumber
