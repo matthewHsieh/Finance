@@ -1,0 +1,15 @@
+# Security & Local Config
+.env
+**/.env
+
+# Dependencies & Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Data/Artifacts
+*.log
